@@ -14,4 +14,4 @@
 - Uploaded project to GitHub
 
 ## Goal
-Learn Cloud Computing and AWS
+Goal: Build a strong foundation in Cloud Computing and DevOps by learning Linux, AWS, Docker, and other essential tools.
