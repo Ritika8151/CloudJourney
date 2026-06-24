@@ -3,6 +3,7 @@
 - Installed Git
 - Created GitHub Account
 - Installed Ubuntu using WSL
+- set up Linux environment
 
 ## Day 2
 - Learned Linux Commands
