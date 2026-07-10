@@ -1,0 +1,6 @@
+services:
+  web:
+    image: ritika8151/ritika-site:v1
+    container_name: mywebsite
+    ports:
+      - "80:80"
