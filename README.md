@@ -1,22 +1,40 @@
+# CloudJourney — Linux & Git Foundations
 
-## Day 
+## Project Overview
+
+This project documents my hands-on learning of Linux, Ubuntu, Git and GitHub as the foundation of my Cloud and DevOps journey.
+
+## Technologies Used
+
+- Ubuntu / Linux
+- Git
+- GitHub
+- Docker
+- Docker Compose
+- WSL
+
+## What I Practiced
+
+### Day 1 — Setup
 - Installed Git
-- Created GitHub Account
+- Created GitHub account
 - Installed Ubuntu using WSL
-- set up Linux environment
+- Set up Linux environment
 
-## Day 
-- Learned Linux Commands
+### Day 2 — Linux
+- Practiced Linux commands
 - Practiced file and folder management
 
-## Day 
-- Created CloudJourney Repository
-- Learned Git Push
+### Day 3 — Git & GitHub
+- Created CloudJourney repository
+- Practiced Git
+- Learned Git push
 - Uploaded project to GitHub
 
-## Day
-- Jenkins Webhook Test
-
-
 ## Goal
-Goal: Build a strong foundation in Cloud Computing and DevOps by learning Linux, AWS, Docker, and other essential tools.
+
+Build a strong foundation in Cloud Computing and DevOps.
+
+## Author
+
+Ritika Chaudhary
